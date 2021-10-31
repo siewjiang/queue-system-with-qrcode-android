@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Queue System</string>
+    <string name="title_text">Queue System</string>
+    <string name="grateful_text">Experience virtual queue now!</string>
+    <string name="get_started_text">Get started</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">Login</string>
+    <string name="create_text">Create Account</string>
+    <string name="or_text">OR</string>
+    <string name="username_hint">Username</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_title">Add Thoughts</string>
+
+    <string name="spinner">Spinner</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="forgotpass">Forgot Password</string>
+    <string name="profile_title">Your Profile</string>
+    <string name="username_title">Username : </string>
+    <string name="email_title">Email : </string>
+    <string name="yourusername">Your Username</string>
+    <string name="youremail">Your Email</string>
+    <string name="edit_profile_text">Edit Profile</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="verify_email">Verify Now</string>
+    <string name="verify_msg">Email Not Verified!</string>
+    <string name="scanqrcode">Scan QR Code</string>
+    <string name="set_EstimatedTime">Set Estimated Time</string>
+    <string-array name="names">
+        <item>User</item>
+        <item>Shopper</item>
+    </string-array>
+</resources>

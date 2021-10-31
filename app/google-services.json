@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428070744855",
+    "project_id": "queuesystem-fa44d",
+    "storage_bucket": "queuesystem-fa44d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428070744855:android:e564e3f0e87a67de5bbd52",
+        "android_client_info": {
+          "package_name": "com.example.queuesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428070744855-rippi7htc3bc33j5j1e3rei80u9pne0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMH_TY5RRMXBi_QT9uzxu36GtdXT7V09E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428070744855-rippi7htc3bc33j5j1e3rei80u9pne0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
